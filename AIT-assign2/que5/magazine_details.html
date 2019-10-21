@@ -1,0 +1,24 @@
+<html>
+<head>
+<script type="text/javascript">
+function load()
+{
+	var xmldso = xmlmagazine.XMLDocument;
+	xmldso.load("magazine_details.xml");
+}
+</script>
+</head>
+<body onload="load()">
+<OBJECT ID="xmlmagazine" CLASSID="CLSID:550dda30-0541-11d2-9ca9-0060b0ec3d39" WIDTH="0" HEIGHT="0"></OBJECT>
+
+<table datasrc="#xmlmagazine" border=1>
+<thead><th>Month</th><th>ISBN No</th><th>Title</th><th>Publisher</th><th>Price</th></thead>
+<tr><td><div datafld="month"></div></td>
+	<td><div datafld="ISBN_No"></div></td>
+	<td><div datafld="title"></div></td>
+	<td><div datafld="publisher"></div></td>
+	<td><div datafld="price"></div></td>
+</tr>
+</table>
+</body>
+</html>

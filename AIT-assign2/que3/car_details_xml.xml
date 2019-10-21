@@ -1,0 +1,27 @@
+<? xml version="1.0" encoding="UTF-8" ?>
+<cardetails>
+	<car>
+		<name>Mercedes-Benz</name>
+		<company>Mercedes-BenZ</company>
+		<price>Rs. 29.90Lakh</price>
+		<owner>Ankit Patel</owner>
+	</car>
+	<car>
+		<name>Ritz VDi</name>
+		<company>Maruti Suzuki</company>
+		<price>Rs. 4.75Lakh</price>
+		<owner>Mahesh Joshi</owner>
+	</car>
+	<car>
+		<name>Vento</name>
+		<company>Volkswagen</company>
+		<price>Rs. 8.76Lakh</price>
+		<owner>Kunal Kudale</owner>
+	</car>
+	<car>
+		<name>Scorpio</name>
+		<company>Mahindra</company>
+		<price>Rs. 16.63Lakh</price>
+		<owner>Manish Patankar</owner>
+	</car>
+</cardetails>

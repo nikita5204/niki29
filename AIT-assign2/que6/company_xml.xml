@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="company.xsl"?>
+<companydetails>
+    <company>
+        <name>Infosys Limited</name>
+        <Address>Plot No. 1,Hinjawadi Phase 2,Hinjewadi Rajiv Gandhi Infotech Park,Pune-411057</Address>
+        <URL>http://www.infosys.com</URL>
+    </company>
+    <company>
+        <name>Capgemini India</name>
+        <Address>Capgemini Level-4,Tower VIII Magarpatta Cyber City,Hadapsar,Pune-411028</Address>
+        <URL>http://www.capgemini.com</URL>
+    </company>
+    <company>
+        <name>Tata Consultancy Services</name>
+        <Address>7,Commerzone IT Park Internal Rd, Yerwada,Pune-411006</Address>
+        <URL>http://www.tcs.com</URL>
+    </company>
+</companydetails>

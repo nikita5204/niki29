@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<employees xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="E:\oxygenfiles\employee.xsd">
+    <employee eid="E101">
+        <ename>
+            <fname>Nikita</fname>
+            <mname>Mahesh</mname>
+            <lname>Joshi</lname>
+        </ename>
+        <salary>35000</salary>
+        <designation>Manager</designation>
+    </employee>
+    <employee eid="E102">
+        <ename>
+            <fname>Anjali</fname>
+            <mname>Subhash</mname>
+            <lname>Badgujar</lname>
+        </ename>
+        <salary>30000</salary>
+        <designation>Marketing</designation>
+    </employee>
+</employees>

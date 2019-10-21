@@ -1,0 +1,24 @@
+<!--<? xml version="1.0" encoding="UTF-8" ?>-->
+<magdetails>
+	<magazine>
+		<month>September</month>
+		<ISBN_No>978-3-16-148410-0</ISBN_No>
+		<title>Forbes</title>
+		<publisher>Digital18</publisher>
+		<price>Rs. 1540(1 year)</price>
+	</magazine>
+	<magazine>
+		<month>August</month>
+		<ISBN_No>978-0-07-008031-7</ISBN_No>
+		<title>Business Today</title>
+		<publisher>India Today Group</publisher>
+		<price>Rs. 2210(1 year)</price>
+	</magazine>
+	<magazine>
+		<month>October</month>
+		<ISBN_No>978-1-58115-359-0</ISBN_No>
+		<title>Vogue</title>
+		<publisher>Conde Nast</publisher>
+		<price>Rs. 1200(1 year)</price>
+	</magazine>
+</magdetails>
